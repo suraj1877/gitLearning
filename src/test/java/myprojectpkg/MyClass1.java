@@ -9,6 +9,8 @@ public class MyClass1 {
         System.out.println("Method 1");
 
         System.out.println("Suraj");
+
+        System.out.println("New Branch Created");
     }
 
 }
