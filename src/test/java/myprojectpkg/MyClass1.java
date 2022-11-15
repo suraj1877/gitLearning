@@ -7,8 +7,6 @@ public class MyClass1 {
     @Test
     public void method1() {
         System.out.println("Method 1");
-        System.out.println("Line for git learning");
-
     }
 
 }
